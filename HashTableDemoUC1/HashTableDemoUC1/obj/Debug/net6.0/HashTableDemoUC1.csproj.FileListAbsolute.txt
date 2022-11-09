@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\HashTable\UC1\HashTableDemoUC1\HashTableDemoUC1\bin\Debug\net6.0\HashTableDemoUC1.exe
+C:\LFP-195 Batch\HashTable\UC1\HashTableDemoUC1\HashTableDemoUC1\bin\Debug\net6.0\HashTableDemoUC1.deps.json
+C:\LFP-195 Batch\HashTable\UC1\HashTableDemoUC1\HashTableDemoUC1\bin\Debug\net6.0\HashTableDemoUC1.runtimeconfig.json
+C:\LFP-195 Batch\HashTable\UC1\HashTableDemoUC1\HashTableDemoUC1\bin\Debug\net6.0\HashTableDemoUC1.dll
+C:\LFP-195 Batch\HashTable\UC1\HashTableDemoUC1\HashTableDemoUC1\bin\Debug\net6.0\HashTableDemoUC1.pdb
+C:\LFP-195 Batch\HashTable\UC1\HashTableDemoUC1\HashTableDemoUC1\obj\Debug\net6.0\HashTableDemoUC1.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\HashTable\UC1\HashTableDemoUC1\HashTableDemoUC1\obj\Debug\net6.0\HashTableDemoUC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\HashTable\UC1\HashTableDemoUC1\HashTableDemoUC1\obj\Debug\net6.0\HashTableDemoUC1.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\HashTable\UC1\HashTableDemoUC1\HashTableDemoUC1\obj\Debug\net6.0\HashTableDemoUC1.AssemblyInfo.cs
+C:\LFP-195 Batch\HashTable\UC1\HashTableDemoUC1\HashTableDemoUC1\obj\Debug\net6.0\HashTableDemoUC1.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\HashTable\UC1\HashTableDemoUC1\HashTableDemoUC1\obj\Debug\net6.0\HashTableDemoUC1.dll
+C:\LFP-195 Batch\HashTable\UC1\HashTableDemoUC1\HashTableDemoUC1\obj\Debug\net6.0\refint\HashTableDemoUC1.dll
+C:\LFP-195 Batch\HashTable\UC1\HashTableDemoUC1\HashTableDemoUC1\obj\Debug\net6.0\HashTableDemoUC1.pdb
+C:\LFP-195 Batch\HashTable\UC1\HashTableDemoUC1\HashTableDemoUC1\obj\Debug\net6.0\HashTableDemoUC1.genruntimeconfig.cache
+C:\LFP-195 Batch\HashTable\UC1\HashTableDemoUC1\HashTableDemoUC1\obj\Debug\net6.0\ref\HashTableDemoUC1.dll
